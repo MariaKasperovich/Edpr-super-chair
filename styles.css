@@ -389,6 +389,10 @@ footer {
     display: flex;
 }
 
+.social-item {
+    margin-right: 20px;
+}
+
 .social-link {
     display: block;
     width: 45px;
@@ -396,11 +400,8 @@ footer {
     border: 2px solid #F13C6E;
     border-radius: 100%;
 
-    margin-right: 20px;
-
     background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
 }
 
 .youtube {
